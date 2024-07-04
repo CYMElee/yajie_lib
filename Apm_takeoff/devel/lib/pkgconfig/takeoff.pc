@@ -1,0 +1,8 @@
+prefix=/home/lee/workspace/ROS_ws/ex_takeoff_class/devel
+
+Name: takeoff
+Description: Description of takeoff
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
